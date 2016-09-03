@@ -1,0 +1,7 @@
+
+[config]
+ProjectPath=E:\workspace_overseas\OGEngineDemo_2048
+PackageName=com.orange.game2048.res
+SelectedListSize=2
+SelectedListContent0=\gfx\game_01.xml
+SelectedListContent1=\gfx\game_02.xml
